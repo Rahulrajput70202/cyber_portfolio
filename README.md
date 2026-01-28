@@ -1,7 +1,7 @@
 
 # cyber_portfolio
 
-# SOC Analyst Portfolio - Rahul Rajput
+# SOC Analyst Portfolio - Rahul Bainade
 
 A professional, high-end cybersecurity portfolio website designed for SOC Analysts and Blue Team professionals. This portfolio showcases defensive security expertise with an enterprise-grade, SOC dashboard-inspired UI.
 
